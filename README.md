@@ -1,1 +1,2 @@
-# Responsive-Column
+<h1> Responsive Gallery </h1>
+
